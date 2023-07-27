@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renato-bosa
 - 👀 I’m interested in solving problems with tech. 
-- 💞️ I’m familiar with: HTML, JS, CSS, PHP, MySQL and Python.
+- 💞️ I’m familiar with: Python, PHP, MySQL, HTML, JS and CSS.
 - 🌱 I’m also interested in exploring AI capabilities.
 
 <!---
