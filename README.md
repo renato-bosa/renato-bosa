@@ -1,9 +1,11 @@
 - 👋
   Hi, I’m @renato-bosa
 - 💻
-  I’m interested in solving problems with tech. 
+  Among other things I’m interested in solving problems with tech.
 - 😎
   I’m familiar with: Python, PHP, MySQL, OOP, JS, HTML and CSS.
+- 🤓
+  Currently I'm learning Laravel.
 - 🌱
   I’m also constantly exploring LLM/AI capabilities.
 
