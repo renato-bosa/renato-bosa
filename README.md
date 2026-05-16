@@ -1,13 +1,13 @@
 - 👋
   Hi, I’m @renato-bosa
 - 💻
-  Among other things I’m interested in solving problems with tech.
+  Among other things, I like solving real-world problems with technology.
 - 😎
-  I’m familiar with: Python, PHP, MySQL, OOP, JS, HTML and CSS.
+  I’m familiar with Python, PHP, Java, MySQL, SQL Server, JavaScript, HTML, CSS and OOP.
 - 🤓
-  Currently I'm learning Laravel.
+  I enjoy learning by building, experimenting, and improving systems step by step.
 - 🌱
-  I’m also constantly exploring LLM/AI capabilities.
+  I like to explore new technologies, like AI, while applying good software architecture.
 
 <!---
 renato-bosa/renato-bosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
