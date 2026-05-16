@@ -9,7 +9,7 @@
 - 🌱
   I like to explore new technologies, like AI, while applying good software architecture.
 
-Most of my work is in private projects, but I also have a couple of public repositories with a few small JavaScript games.
+🎮 Most of my work is in private projects, but I also have a couple of public repositories with a few small JavaScript games.
 
 <!---
 renato-bosa/renato-bosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
